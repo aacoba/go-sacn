@@ -5,8 +5,6 @@ import (
 	"log"
 	"net"
 	"time"
-
-	"github.com/Hundemeier/go-sacn/sacn"
 )
 
 func ExampleReceiverSocket_unicast() {
